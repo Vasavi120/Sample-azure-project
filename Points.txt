@@ -1,0 +1,4 @@
+Today we are practising azure project 
+on git as a trail to use git application
+lets see how to do particular project
+lets get started.....
